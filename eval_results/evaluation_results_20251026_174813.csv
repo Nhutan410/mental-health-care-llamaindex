@@ -1,0 +1,330 @@
+﻿Query,Correctness_response,Correctness_passing,Correctness_feedback,Correctness_score,Faithfulness_response,Faithfulness_passing,Faithfulness_feedback,Faithfulness_score,Relevancy_response,Relevancy_passing,Relevancy_feedback,Relevancy_score
+Mã số của Rối loạn Điều hòa Khí sắc (Disruptive Mood Dysregulation Disorder) là gì và mô tả ngắn gọn về đặc điểm của rối loạn này?,"Mã số của Rối loạn Điều hòa Khí sắc là 296.99 (F34.8). Rối loạn này được đặc trưng bởi các cơn bùng nổ cảm xúc trầm trọng, diễn ra tái diễn và dai dẳng, thể hiện qua ngôn ngữ như cơn giận dữ và hành vi như xâm hại người khác hoặc phá hoại tài sản, thường không tương xứng với tình huống.",True,"The generated answer is highly relevant and fully correct, providing both the diagnostic code and a clear description of the characteristics of Disruptive Mood Dysregulation Disorder.",5.0,"Mã số của Rối loạn Điều hòa Khí sắc là 296.99 (F34.8). Rối loạn này được đặc trưng bởi các cơn bùng nổ cảm xúc trầm trọng, diễn ra tái diễn và dai dẳng, thể hiện qua ngôn ngữ như cơn giận dữ và hành vi như xâm hại người khác hoặc phá hoại tài sản, thường không tương xứng với tình huống.",True,YES,1.0,"Mã số của Rối loạn Điều hòa Khí sắc là 296.99 (F34.8). Rối loạn này được đặc trưng bởi các cơn bùng nổ cảm xúc trầm trọng, diễn ra tái diễn và dai dẳng, thể hiện qua ngôn ngữ như cơn giận dữ và hành vi như xâm hại người khác hoặc phá hoại tài sản, thường không tương xứng với tình huống.",True,YES,1.0
+"**What are the key criteria for diagnosing a psychological disorder related to emotional outbursts in children and adolescents, and how do these criteria emphasize the frequency and severity of symptoms?**","Key criteria for diagnosing a psychological disorder related to emotional outbursts in children and adolescents include the presence of severe and recurrent emotional outbursts that are disproportionate to the situation. These outbursts can manifest through verbal expressions, such as intense anger, or through behaviors like harming others or damaging property. 
+
+The criteria emphasize that these emotional outbursts must occur frequently and persistently, indicating a pattern rather than isolated incidents. Additionally, the severity of the outbursts should not be appropriate for the context, highlighting the need for a significant mismatch between the emotional response and the triggering event. This focus on frequency and severity helps differentiate the disorder from typical emotional responses, ensuring that the diagnosis is reserved for cases where the emotional dysregulation is chronic and impactful on the individual's functioning.",True,"The generated answer is highly relevant and fully correct, addressing the key criteria for diagnosing psychological disorders related to emotional outbursts in children and adolescents, while also emphasizing the importance of frequency and severity of symptoms.",5.0,"Key criteria for diagnosing a psychological disorder related to emotional outbursts in children and adolescents include the presence of severe and recurrent emotional outbursts that are disproportionate to the situation. These outbursts can manifest through verbal expressions, such as intense anger, or through behaviors like harming others or damaging property. 
+
+The criteria emphasize that these emotional outbursts must occur frequently and persistently, indicating a pattern rather than isolated incidents. Additionally, the severity of the outbursts should not be appropriate for the context, highlighting the need for a significant mismatch between the emotional response and the triggering event. This focus on frequency and severity helps differentiate the disorder from typical emotional responses, ensuring that the diagnosis is reserved for cases where the emotional dysregulation is chronic and impactful on the individual's functioning.",True,YES,1.0,"Key criteria for diagnosing a psychological disorder related to emotional outbursts in children and adolescents include the presence of severe and recurrent emotional outbursts that are disproportionate to the situation. These outbursts can manifest through verbal expressions, such as intense anger, or through behaviors like harming others or damaging property. 
+
+The criteria emphasize that these emotional outbursts must occur frequently and persistently, indicating a pattern rather than isolated incidents. Additionally, the severity of the outbursts should not be appropriate for the context, highlighting the need for a significant mismatch between the emotional response and the triggering event. This focus on frequency and severity helps differentiate the disorder from typical emotional responses, ensuring that the diagnosis is reserved for cases where the emotional dysregulation is chronic and impactful on the individual's functioning.",False,NO,0.0
+"**What are the key criteria for diagnosing bipolar disorder in children and adolescents according to the DSM-5, and how does the age of onset affect the diagnosis?**","Key criteria for diagnosing bipolar disorder in children and adolescents include the presence of manic or hypomanic episodes lasting at least one month. These symptoms must not be attributed to typical age-related emotional expressions. Additionally, symptoms must onset before the age of 10, and there should not be any period lasting one month or more where the diagnostic criteria for a manic or hypomanic episode are not met.
+
+The age of onset is crucial, as it must occur before 10 years old, and the diagnosis cannot be made if there are periods without sufficient symptoms that meet the criteria. This emphasizes the importance of early identification and the need to differentiate these symptoms from other potential mental health disorders.",False,"The generated answer is relevant to the user query and provides key criteria for diagnosing bipolar disorder in children and adolescents. However, it contains inaccuracies regarding the age of onset, as the DSM-5 does not specify that symptoms must onset before the age of 10 for a diagnosis. This misinterpretation affects the correctness of the answer, leading to a lower score.",3.0,"Key criteria for diagnosing bipolar disorder in children and adolescents include the presence of manic or hypomanic episodes lasting at least one month. These symptoms must not be attributed to typical age-related emotional expressions. Additionally, symptoms must onset before the age of 10, and there should not be any period lasting one month or more where the diagnostic criteria for a manic or hypomanic episode are not met.
+
+The age of onset is crucial, as it must occur before 10 years old, and the diagnosis cannot be made if there are periods without sufficient symptoms that meet the criteria. This emphasizes the importance of early identification and the need to differentiate these symptoms from other potential mental health disorders.",True,YES,1.0,"Key criteria for diagnosing bipolar disorder in children and adolescents include the presence of manic or hypomanic episodes lasting at least one month. These symptoms must not be attributed to typical age-related emotional expressions. Additionally, symptoms must onset before the age of 10, and there should not be any period lasting one month or more where the diagnostic criteria for a manic or hypomanic episode are not met.
+
+The age of onset is crucial, as it must occur before 10 years old, and the diagnosis cannot be made if there are periods without sufficient symptoms that meet the criteria. This emphasizes the importance of early identification and the need to differentiate these symptoms from other potential mental health disorders.",False,NO,0.0
+"What are the criteria for diagnosing Major Depressive Disorder, and how do these criteria differentiate it from other mental disorders mentioned in the document?","The criteria for diagnosing Major Depressive Disorder include the presence of symptoms such as a depressed mood, loss of interest or pleasure in activities, significant weight loss or gain, insomnia or hypersomnia, fatigue, feelings of worthlessness or excessive guilt, diminished ability to think or concentrate, and recurrent thoughts of death or suicide. These symptoms must cause significant distress or impairment in social, occupational, or other important areas of functioning.
+
+To differentiate Major Depressive Disorder from other mental disorders, it is important to consider the duration and context of the symptoms. For instance, symptoms must persist for at least two weeks and cannot be better explained by another mental disorder, such as Persistent Depressive Disorder or Disruptive Mood Dysregulation Disorder. Additionally, the presence of manic or hypomanic episodes would indicate a diagnosis of bipolar disorder rather than Major Depressive Disorder. The document also highlights the importance of ruling out other conditions that may mimic depressive symptoms, such as medical illnesses or substance use disorders.",True,"The generated answer thoroughly addresses the criteria for diagnosing Major Depressive Disorder and effectively explains how these criteria differentiate it from other mental disorders. It provides a clear and accurate description of the symptoms and the necessary considerations for diagnosis, demonstrating a comprehensive understanding of the topic.",5.0,"The criteria for diagnosing Major Depressive Disorder include the presence of symptoms such as a depressed mood, loss of interest or pleasure in activities, significant weight loss or gain, insomnia or hypersomnia, fatigue, feelings of worthlessness or excessive guilt, diminished ability to think or concentrate, and recurrent thoughts of death or suicide. These symptoms must cause significant distress or impairment in social, occupational, or other important areas of functioning.
+
+To differentiate Major Depressive Disorder from other mental disorders, it is important to consider the duration and context of the symptoms. For instance, symptoms must persist for at least two weeks and cannot be better explained by another mental disorder, such as Persistent Depressive Disorder or Disruptive Mood Dysregulation Disorder. Additionally, the presence of manic or hypomanic episodes would indicate a diagnosis of bipolar disorder rather than Major Depressive Disorder. The document also highlights the importance of ruling out other conditions that may mimic depressive symptoms, such as medical illnesses or substance use disorders.",True,YES,1.0,"The criteria for diagnosing Major Depressive Disorder include the presence of symptoms such as a depressed mood, loss of interest or pleasure in activities, significant weight loss or gain, insomnia or hypersomnia, fatigue, feelings of worthlessness or excessive guilt, diminished ability to think or concentrate, and recurrent thoughts of death or suicide. These symptoms must cause significant distress or impairment in social, occupational, or other important areas of functioning.
+
+To differentiate Major Depressive Disorder from other mental disorders, it is important to consider the duration and context of the symptoms. For instance, symptoms must persist for at least two weeks and cannot be better explained by another mental disorder, such as Persistent Depressive Disorder or Disruptive Mood Dysregulation Disorder. Additionally, the presence of manic or hypomanic episodes would indicate a diagnosis of bipolar disorder rather than Major Depressive Disorder. The document also highlights the importance of ruling out other conditions that may mimic depressive symptoms, such as medical illnesses or substance use disorders.",True,YES,1.0
+"Liệt kê và mô tả các triệu chứng chính của rối loạn trầm cảm được nêu trong tài liệu, bao gồm khí sắc, sở thích, trọng lượng, giấc ngủ và tình trạng vận động.","Các triệu chứng chính của rối loạn trầm cảm bao gồm:
+
+1. **Khí sắc**: Giảm khí sắc kéo dài, có thể được nhận biết bởi bệnh nhân hoặc người khác, thường thể hiện qua cảm giác buồn bã hoặc trống rỗng. Ở trẻ em và vị thành niên, khí sắc có thể bị kích thích.
+
+2. **Giảm thích thú**: Mất đi sự quan tâm hoặc sở thích đối với hầu hết các hoạt động trong cuộc sống, diễn ra trong phần lớn thời gian trong ngày.
+
+3. **Thay đổi trọng lượng**: Có thể xảy ra giảm cân hoặc tăng cân rõ rệt, với sự thay đổi trọng lượng cơ thể hơn 5% trong một tháng, đi kèm với sự thay đổi cảm giác ngon miệng.
+
+4. **Giấc ngủ**: Mất ngủ hoặc ngủ quá nhiều diễn ra hầu như hàng ngày.
+
+5. **Kích động hoặc vận động tâm thần**: Có thể có sự kích động hoặc chậm chạp trong vận động, được quan sát bởi người khác.",True,"The generated answer is highly relevant and fully correct, providing a comprehensive list and description of the main symptoms of depression as requested in the user query.",5.0,"Các triệu chứng chính của rối loạn trầm cảm bao gồm:
+
+1. **Khí sắc**: Giảm khí sắc kéo dài, có thể được nhận biết bởi bệnh nhân hoặc người khác, thường thể hiện qua cảm giác buồn bã hoặc trống rỗng. Ở trẻ em và vị thành niên, khí sắc có thể bị kích thích.
+
+2. **Giảm thích thú**: Mất đi sự quan tâm hoặc sở thích đối với hầu hết các hoạt động trong cuộc sống, diễn ra trong phần lớn thời gian trong ngày.
+
+3. **Thay đổi trọng lượng**: Có thể xảy ra giảm cân hoặc tăng cân rõ rệt, với sự thay đổi trọng lượng cơ thể hơn 5% trong một tháng, đi kèm với sự thay đổi cảm giác ngon miệng.
+
+4. **Giấc ngủ**: Mất ngủ hoặc ngủ quá nhiều diễn ra hầu như hàng ngày.
+
+5. **Kích động hoặc vận động tâm thần**: Có thể có sự kích động hoặc chậm chạp trong vận động, được quan sát bởi người khác.",True,YES,1.0,"Các triệu chứng chính của rối loạn trầm cảm bao gồm:
+
+1. **Khí sắc**: Giảm khí sắc kéo dài, có thể được nhận biết bởi bệnh nhân hoặc người khác, thường thể hiện qua cảm giác buồn bã hoặc trống rỗng. Ở trẻ em và vị thành niên, khí sắc có thể bị kích thích.
+
+2. **Giảm thích thú**: Mất đi sự quan tâm hoặc sở thích đối với hầu hết các hoạt động trong cuộc sống, diễn ra trong phần lớn thời gian trong ngày.
+
+3. **Thay đổi trọng lượng**: Có thể xảy ra giảm cân hoặc tăng cân rõ rệt, với sự thay đổi trọng lượng cơ thể hơn 5% trong một tháng, đi kèm với sự thay đổi cảm giác ngon miệng.
+
+4. **Giấc ngủ**: Mất ngủ hoặc ngủ quá nhiều diễn ra hầu như hàng ngày.
+
+5. **Kích động hoặc vận động tâm thần**: Có thể có sự kích động hoặc chậm chạp trong vận động, được quan sát bởi người khác.",True,YES,1.0
+Liệt kê và giải thích bảy triệu chứng chính của một rối loạn tâm thần nghiêm trọng như được mô tả trong tài liệu.,"Bảy triệu chứng chính của một rối loạn tâm thần nghiêm trọng bao gồm:
+
+1. **Cảm giác không yên tĩnh hoặc chậm chạp**: Triệu chứng này không chỉ được cảm nhận bởi bệnh nhân mà còn được người khác quan sát thấy, cho thấy sự thay đổi trong trạng thái tâm lý và hành vi.
+
+2. **Mệt mỏi hoặc mất năng lượng**: Xuất hiện hầu như hàng ngày, triệu chứng này có thể làm giảm khả năng thực hiện các hoạt động hàng ngày và ảnh hưởng đến chất lượng cuộc sống.
+
+3. **Cảm giác vô dụng hoặc tội lỗi quá mức**: Triệu chứng này có thể mang tính hoang tưởng và xuất hiện hàng ngày, dẫn đến cảm giác tự ti và áp lực tâm lý lớn cho bệnh nhân.
+
+4. **Giảm khả năng suy nghĩ và tập trung**: Bệnh nhân có thể gặp khó khăn trong việc đưa ra quyết định, điều này có thể được nhận thấy bởi bản thân hoặc người khác, ảnh hưởng đến khả năng làm việc và học tập.
+
+5. **Ý nghĩ về cái chết và tự sát**: Bao gồm cả ý định tự sát không có kế hoạch cụ thể hoặc hành vi tự sát, đây là một triệu chứng nghiêm trọng cần được chú ý và can thiệp kịp thời.
+
+6. **Ảnh hưởng đến các lĩnh vực quan trọng**: Các triệu chứng này rõ ràng ảnh hưởng đến đời sống xã hội, nghề nghiệp và các lĩnh vực quan trọng khác, làm giảm khả năng tương tác và tham gia vào các hoạt động xã hội.
+
+7. **Không do chất hoặc bệnh lý**: Các triệu chứng không phải là hậu quả của việc sử dụng chất kích thích hoặc bệnh lý cơ thể, điều này giúp xác định rằng rối loạn tâm thần là nguyên nhân chính gây ra các triệu chứng. 
+
+Những triệu chứng này cho thấy sự nghiêm trọng của rối loạn tâm thần và cần được đánh giá và điều trị kịp thời.",True,"The generated answer is highly relevant and correctly lists and explains seven key symptoms of a severe mental disorder, providing clear and detailed descriptions for each symptom.",5.0,"Bảy triệu chứng chính của một rối loạn tâm thần nghiêm trọng bao gồm:
+
+1. **Cảm giác không yên tĩnh hoặc chậm chạp**: Triệu chứng này không chỉ được cảm nhận bởi bệnh nhân mà còn được người khác quan sát thấy, cho thấy sự thay đổi trong trạng thái tâm lý và hành vi.
+
+2. **Mệt mỏi hoặc mất năng lượng**: Xuất hiện hầu như hàng ngày, triệu chứng này có thể làm giảm khả năng thực hiện các hoạt động hàng ngày và ảnh hưởng đến chất lượng cuộc sống.
+
+3. **Cảm giác vô dụng hoặc tội lỗi quá mức**: Triệu chứng này có thể mang tính hoang tưởng và xuất hiện hàng ngày, dẫn đến cảm giác tự ti và áp lực tâm lý lớn cho bệnh nhân.
+
+4. **Giảm khả năng suy nghĩ và tập trung**: Bệnh nhân có thể gặp khó khăn trong việc đưa ra quyết định, điều này có thể được nhận thấy bởi bản thân hoặc người khác, ảnh hưởng đến khả năng làm việc và học tập.
+
+5. **Ý nghĩ về cái chết và tự sát**: Bao gồm cả ý định tự sát không có kế hoạch cụ thể hoặc hành vi tự sát, đây là một triệu chứng nghiêm trọng cần được chú ý và can thiệp kịp thời.
+
+6. **Ảnh hưởng đến các lĩnh vực quan trọng**: Các triệu chứng này rõ ràng ảnh hưởng đến đời sống xã hội, nghề nghiệp và các lĩnh vực quan trọng khác, làm giảm khả năng tương tác và tham gia vào các hoạt động xã hội.
+
+7. **Không do chất hoặc bệnh lý**: Các triệu chứng không phải là hậu quả của việc sử dụng chất kích thích hoặc bệnh lý cơ thể, điều này giúp xác định rằng rối loạn tâm thần là nguyên nhân chính gây ra các triệu chứng. 
+
+Những triệu chứng này cho thấy sự nghiêm trọng của rối loạn tâm thần và cần được đánh giá và điều trị kịp thời.",True,YES,1.0,"Bảy triệu chứng chính của một rối loạn tâm thần nghiêm trọng bao gồm:
+
+1. **Cảm giác không yên tĩnh hoặc chậm chạp**: Triệu chứng này không chỉ được cảm nhận bởi bệnh nhân mà còn được người khác quan sát thấy, cho thấy sự thay đổi trong trạng thái tâm lý và hành vi.
+
+2. **Mệt mỏi hoặc mất năng lượng**: Xuất hiện hầu như hàng ngày, triệu chứng này có thể làm giảm khả năng thực hiện các hoạt động hàng ngày và ảnh hưởng đến chất lượng cuộc sống.
+
+3. **Cảm giác vô dụng hoặc tội lỗi quá mức**: Triệu chứng này có thể mang tính hoang tưởng và xuất hiện hàng ngày, dẫn đến cảm giác tự ti và áp lực tâm lý lớn cho bệnh nhân.
+
+4. **Giảm khả năng suy nghĩ và tập trung**: Bệnh nhân có thể gặp khó khăn trong việc đưa ra quyết định, điều này có thể được nhận thấy bởi bản thân hoặc người khác, ảnh hưởng đến khả năng làm việc và học tập.
+
+5. **Ý nghĩ về cái chết và tự sát**: Bao gồm cả ý định tự sát không có kế hoạch cụ thể hoặc hành vi tự sát, đây là một triệu chứng nghiêm trọng cần được chú ý và can thiệp kịp thời.
+
+6. **Ảnh hưởng đến các lĩnh vực quan trọng**: Các triệu chứng này rõ ràng ảnh hưởng đến đời sống xã hội, nghề nghiệp và các lĩnh vực quan trọng khác, làm giảm khả năng tương tác và tham gia vào các hoạt động xã hội.
+
+7. **Không do chất hoặc bệnh lý**: Các triệu chứng không phải là hậu quả của việc sử dụng chất kích thích hoặc bệnh lý cơ thể, điều này giúp xác định rằng rối loạn tâm thần là nguyên nhân chính gây ra các triệu chứng. 
+
+Những triệu chứng này cho thấy sự nghiêm trọng của rối loạn tâm thần và cần được đánh giá và điều trị kịp thời.",True,YES,1.0
+"**What are the key symptoms that indicate a diagnosis of depression in the context of hypothyroidism, and how do these symptoms differ from those explained by grief?**","Key symptoms indicating a diagnosis of depression in the context of hypothyroidism include:
+
+1. **Persistent Low Mood**: A noticeable decrease in mood for most of the day, nearly every day, which can be recognized by the individual or observed by others.
+2. **Loss of Interest**: A significant reduction in interest or pleasure in almost all activities, occurring most of the day.
+3. **Weight Changes**: Noticeable weight loss or gain, with a change of more than 5% of body weight in a month, along with changes in appetite.
+4. **Sleep Disturbances**: Insomnia or hypersomnia occurring nearly every day.
+5. **Psychomotor Agitation or Retardation**: Observable agitation or slowing down in movement, noted by others.
+
+These symptoms differ from those explained by grief in that they persist beyond two months after a loss and are characterized by clear functional impairment, feelings of worthlessness, suicidal thoughts, or psychotic symptoms. In contrast, grief typically involves a more transient emotional response that is closely tied to the loss and may not exhibit the same level of functional disruption or severity as clinical depression.",True,"The generated answer is highly relevant and fully correct, providing a comprehensive list of symptoms associated with depression in the context of hypothyroidism and clearly distinguishing them from grief-related symptoms.",5.0,"Key symptoms indicating a diagnosis of depression in the context of hypothyroidism include:
+
+1. **Persistent Low Mood**: A noticeable decrease in mood for most of the day, nearly every day, which can be recognized by the individual or observed by others.
+2. **Loss of Interest**: A significant reduction in interest or pleasure in almost all activities, occurring most of the day.
+3. **Weight Changes**: Noticeable weight loss or gain, with a change of more than 5% of body weight in a month, along with changes in appetite.
+4. **Sleep Disturbances**: Insomnia or hypersomnia occurring nearly every day.
+5. **Psychomotor Agitation or Retardation**: Observable agitation or slowing down in movement, noted by others.
+
+These symptoms differ from those explained by grief in that they persist beyond two months after a loss and are characterized by clear functional impairment, feelings of worthlessness, suicidal thoughts, or psychotic symptoms. In contrast, grief typically involves a more transient emotional response that is closely tied to the loss and may not exhibit the same level of functional disruption or severity as clinical depression.",True,YES,1.0,"Key symptoms indicating a diagnosis of depression in the context of hypothyroidism include:
+
+1. **Persistent Low Mood**: A noticeable decrease in mood for most of the day, nearly every day, which can be recognized by the individual or observed by others.
+2. **Loss of Interest**: A significant reduction in interest or pleasure in almost all activities, occurring most of the day.
+3. **Weight Changes**: Noticeable weight loss or gain, with a change of more than 5% of body weight in a month, along with changes in appetite.
+4. **Sleep Disturbances**: Insomnia or hypersomnia occurring nearly every day.
+5. **Psychomotor Agitation or Retardation**: Observable agitation or slowing down in movement, noted by others.
+
+These symptoms differ from those explained by grief in that they persist beyond two months after a loss and are characterized by clear functional impairment, feelings of worthlessness, suicidal thoughts, or psychotic symptoms. In contrast, grief typically involves a more transient emotional response that is closely tied to the loss and may not exhibit the same level of functional disruption or severity as clinical depression.",True,YES,1.0
+Liệt kê và mô tả các triệu chứng chính của rối loạn trầm cảm kéo dài (Dysthymia) theo tiêu chuẩn DSM-5.,"Các triệu chứng chính của rối loạn trầm cảm kéo dài (Dysthymia) theo tiêu chuẩn DSM-5 bao gồm:
+
+1. **Giảm cảm giác ngon miệng hoặc ăn quá nhiều**: Bệnh nhân có thể trải qua sự thay đổi trong thói quen ăn uống, dẫn đến việc ăn ít hơn hoặc ăn nhiều hơn bình thường.
+
+2. **Ít ngủ hoặc ngủ nhiều**: Có thể xuất hiện tình trạng mất ngủ hoặc ngược lại, cảm thấy cần ngủ nhiều hơn bình thường.
+
+3. **Giảm năng lượng và mệt mỏi**: Bệnh nhân thường cảm thấy thiếu sức sống, mệt mỏi và không có năng lượng để thực hiện các hoạt động hàng ngày.
+
+4. **Giảm tự tin**: Cảm giác tự ti, thiếu tự tin vào bản thân và khả năng của mình có thể gia tăng.
+
+5. **Khó khăn trong việc tập trung hoặc ra quyết định**: Bệnh nhân có thể gặp khó khăn trong việc tập trung vào công việc hoặc đưa ra quyết định, dẫn đến cảm giác bối rối.
+
+6. **Cảm giác tuyệt vọng**: Xuất hiện cảm giác không có hy vọng, chán nản và tuyệt vọng về tương lai.
+
+Các triệu chứng này phải kéo dài ít nhất 2 năm (1 năm đối với trẻ em và vị thành niên) và không được có giai đoạn nào không có triệu chứng kéo dài hơn 2 tháng trong khoảng thời gian này.",True,"The generated answer is highly relevant and accurately describes the main symptoms of Dysthymia according to DSM-5 criteria. It provides a comprehensive list of symptoms along with explanations, fulfilling the user's request effectively.",5.0,"Các triệu chứng chính của rối loạn trầm cảm kéo dài (Dysthymia) theo tiêu chuẩn DSM-5 bao gồm:
+
+1. **Giảm cảm giác ngon miệng hoặc ăn quá nhiều**: Bệnh nhân có thể trải qua sự thay đổi trong thói quen ăn uống, dẫn đến việc ăn ít hơn hoặc ăn nhiều hơn bình thường.
+
+2. **Ít ngủ hoặc ngủ nhiều**: Có thể xuất hiện tình trạng mất ngủ hoặc ngược lại, cảm thấy cần ngủ nhiều hơn bình thường.
+
+3. **Giảm năng lượng và mệt mỏi**: Bệnh nhân thường cảm thấy thiếu sức sống, mệt mỏi và không có năng lượng để thực hiện các hoạt động hàng ngày.
+
+4. **Giảm tự tin**: Cảm giác tự ti, thiếu tự tin vào bản thân và khả năng của mình có thể gia tăng.
+
+5. **Khó khăn trong việc tập trung hoặc ra quyết định**: Bệnh nhân có thể gặp khó khăn trong việc tập trung vào công việc hoặc đưa ra quyết định, dẫn đến cảm giác bối rối.
+
+6. **Cảm giác tuyệt vọng**: Xuất hiện cảm giác không có hy vọng, chán nản và tuyệt vọng về tương lai.
+
+Các triệu chứng này phải kéo dài ít nhất 2 năm (1 năm đối với trẻ em và vị thành niên) và không được có giai đoạn nào không có triệu chứng kéo dài hơn 2 tháng trong khoảng thời gian này.",True,YES,1.0,"Các triệu chứng chính của rối loạn trầm cảm kéo dài (Dysthymia) theo tiêu chuẩn DSM-5 bao gồm:
+
+1. **Giảm cảm giác ngon miệng hoặc ăn quá nhiều**: Bệnh nhân có thể trải qua sự thay đổi trong thói quen ăn uống, dẫn đến việc ăn ít hơn hoặc ăn nhiều hơn bình thường.
+
+2. **Ít ngủ hoặc ngủ nhiều**: Có thể xuất hiện tình trạng mất ngủ hoặc ngược lại, cảm thấy cần ngủ nhiều hơn bình thường.
+
+3. **Giảm năng lượng và mệt mỏi**: Bệnh nhân thường cảm thấy thiếu sức sống, mệt mỏi và không có năng lượng để thực hiện các hoạt động hàng ngày.
+
+4. **Giảm tự tin**: Cảm giác tự ti, thiếu tự tin vào bản thân và khả năng của mình có thể gia tăng.
+
+5. **Khó khăn trong việc tập trung hoặc ra quyết định**: Bệnh nhân có thể gặp khó khăn trong việc tập trung vào công việc hoặc đưa ra quyết định, dẫn đến cảm giác bối rối.
+
+6. **Cảm giác tuyệt vọng**: Xuất hiện cảm giác không có hy vọng, chán nản và tuyệt vọng về tương lai.
+
+Các triệu chứng này phải kéo dài ít nhất 2 năm (1 năm đối với trẻ em và vị thành niên) và không được có giai đoạn nào không có triệu chứng kéo dài hơn 2 tháng trong khoảng thời gian này.",True,YES,1.0
+"**What are the key diagnostic criteria that must be met for a diagnosis of mood disorder, particularly in the context of major depressive episodes?**","For a diagnosis of a mood disorder, particularly in the context of major depressive episodes, the following key diagnostic criteria must be met:
+
+1. **Symptoms**: The individual must experience symptoms such as:
+   - Persistent feelings of sadness or a depressed mood.
+   - Significant changes in appetite (either loss of appetite or overeating).
+   - Sleep disturbances (insomnia or hypersomnia).
+   - Fatigue or loss of energy.
+   - Feelings of worthlessness or excessive guilt.
+   - Difficulty concentrating or making decisions.
+   - Recurrent thoughts of death or suicidal ideation.
+
+2. **Duration**: Symptoms must persist for a minimum duration, typically at least two weeks, and represent a change from previous functioning.
+
+3. **Functional Impairment**: The symptoms must cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+4. **Exclusion of Other Conditions**: The depressive episode must not be better explained by another mental disorder, such as a bipolar disorder, or be attributable to the physiological effects of a substance or another medical condition.
+
+5. **No Prior Major Depressive Episodes**: There should not have been any prior major depressive episodes that would better explain the current symptoms.
+
+These criteria help ensure a comprehensive assessment of the individual's mental health status in relation to mood disorders.",True,"The generated answer is highly relevant and provides a comprehensive overview of the key diagnostic criteria for mood disorders, specifically major depressive episodes. It covers symptoms, duration, functional impairment, exclusion of other conditions, and prior episodes, which are all critical components for diagnosis. The information is accurate and well-organized, making it a complete and correct response to the user query.",5.0,"For a diagnosis of a mood disorder, particularly in the context of major depressive episodes, the following key diagnostic criteria must be met:
+
+1. **Symptoms**: The individual must experience symptoms such as:
+   - Persistent feelings of sadness or a depressed mood.
+   - Significant changes in appetite (either loss of appetite or overeating).
+   - Sleep disturbances (insomnia or hypersomnia).
+   - Fatigue or loss of energy.
+   - Feelings of worthlessness or excessive guilt.
+   - Difficulty concentrating or making decisions.
+   - Recurrent thoughts of death or suicidal ideation.
+
+2. **Duration**: Symptoms must persist for a minimum duration, typically at least two weeks, and represent a change from previous functioning.
+
+3. **Functional Impairment**: The symptoms must cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+4. **Exclusion of Other Conditions**: The depressive episode must not be better explained by another mental disorder, such as a bipolar disorder, or be attributable to the physiological effects of a substance or another medical condition.
+
+5. **No Prior Major Depressive Episodes**: There should not have been any prior major depressive episodes that would better explain the current symptoms.
+
+These criteria help ensure a comprehensive assessment of the individual's mental health status in relation to mood disorders.",True,YES,1.0,"For a diagnosis of a mood disorder, particularly in the context of major depressive episodes, the following key diagnostic criteria must be met:
+
+1. **Symptoms**: The individual must experience symptoms such as:
+   - Persistent feelings of sadness or a depressed mood.
+   - Significant changes in appetite (either loss of appetite or overeating).
+   - Sleep disturbances (insomnia or hypersomnia).
+   - Fatigue or loss of energy.
+   - Feelings of worthlessness or excessive guilt.
+   - Difficulty concentrating or making decisions.
+   - Recurrent thoughts of death or suicidal ideation.
+
+2. **Duration**: Symptoms must persist for a minimum duration, typically at least two weeks, and represent a change from previous functioning.
+
+3. **Functional Impairment**: The symptoms must cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+4. **Exclusion of Other Conditions**: The depressive episode must not be better explained by another mental disorder, such as a bipolar disorder, or be attributable to the physiological effects of a substance or another medical condition.
+
+5. **No Prior Major Depressive Episodes**: There should not have been any prior major depressive episodes that would better explain the current symptoms.
+
+These criteria help ensure a comprehensive assessment of the individual's mental health status in relation to mood disorders.",True,YES,1.0
+"So sánh và phân biệt giữa rối loạn trầm cảm chủ yếu và rối loạn khí sắc, nêu rõ các đặc điểm chính của từng loại rối loạn.","Rối loạn trầm cảm chủ yếu và rối loạn khí sắc có những đặc điểm chính khác nhau:
+
+1. **Rối loạn trầm cảm chủ yếu**:
+   - Được xác định bởi một hoặc nhiều giai đoạn trầm cảm riêng rẽ, có các giai đoạn lui bệnh giữa các cơn trầm cảm.
+   - Triệu chứng trầm cảm có thể xuất hiện một cách rõ ràng và có thể gây ra ảnh hưởng nghiêm trọng đến các lĩnh vực xã hội, nghề nghiệp hoặc chức năng quan trọng khác.
+   - Không có giai đoạn hưng cảm, pha trộn hoặc hưng cảm nhẹ.
+
+2. **Rối loạn khí sắc**:
+   - Đặc trưng bởi các triệu chứng trầm cảm nhẹ và kéo dài liên tục trong nhiều năm.
+   - Không có giai đoạn hưng cảm, pha trộn hoặc hưng cảm nhẹ, và không xuất hiện trong bối cảnh của một loạn thần mạn tính hoặc rối loạn hoang tưởng.
+   - Triệu chứng có thể gây ảnh hưởng đến cuộc sống hàng ngày, nhưng thường không nghiêm trọng như trong rối loạn trầm cảm chủ yếu.
+
+Sự khác biệt chính giữa hai rối loạn này nằm ở giai đoạn khởi phát, độ dài và mức độ nặng của triệu chứng. Rối loạn trầm cảm chủ yếu có các giai đoạn rõ ràng và có thể hồi phục giữa các cơn, trong khi rối loạn khí sắc có triệu chứng kéo dài và liên tục hơn.",True,"The generated answer is highly relevant and fully correct, providing a clear comparison between major depressive disorder and mood disorders, along with key characteristics of each type. It effectively addresses the user's query with detailed and accurate information.",5.0,"Rối loạn trầm cảm chủ yếu và rối loạn khí sắc có những đặc điểm chính khác nhau:
+
+1. **Rối loạn trầm cảm chủ yếu**:
+   - Được xác định bởi một hoặc nhiều giai đoạn trầm cảm riêng rẽ, có các giai đoạn lui bệnh giữa các cơn trầm cảm.
+   - Triệu chứng trầm cảm có thể xuất hiện một cách rõ ràng và có thể gây ra ảnh hưởng nghiêm trọng đến các lĩnh vực xã hội, nghề nghiệp hoặc chức năng quan trọng khác.
+   - Không có giai đoạn hưng cảm, pha trộn hoặc hưng cảm nhẹ.
+
+2. **Rối loạn khí sắc**:
+   - Đặc trưng bởi các triệu chứng trầm cảm nhẹ và kéo dài liên tục trong nhiều năm.
+   - Không có giai đoạn hưng cảm, pha trộn hoặc hưng cảm nhẹ, và không xuất hiện trong bối cảnh của một loạn thần mạn tính hoặc rối loạn hoang tưởng.
+   - Triệu chứng có thể gây ảnh hưởng đến cuộc sống hàng ngày, nhưng thường không nghiêm trọng như trong rối loạn trầm cảm chủ yếu.
+
+Sự khác biệt chính giữa hai rối loạn này nằm ở giai đoạn khởi phát, độ dài và mức độ nặng của triệu chứng. Rối loạn trầm cảm chủ yếu có các giai đoạn rõ ràng và có thể hồi phục giữa các cơn, trong khi rối loạn khí sắc có triệu chứng kéo dài và liên tục hơn.",True,YES,1.0,"Rối loạn trầm cảm chủ yếu và rối loạn khí sắc có những đặc điểm chính khác nhau:
+
+1. **Rối loạn trầm cảm chủ yếu**:
+   - Được xác định bởi một hoặc nhiều giai đoạn trầm cảm riêng rẽ, có các giai đoạn lui bệnh giữa các cơn trầm cảm.
+   - Triệu chứng trầm cảm có thể xuất hiện một cách rõ ràng và có thể gây ra ảnh hưởng nghiêm trọng đến các lĩnh vực xã hội, nghề nghiệp hoặc chức năng quan trọng khác.
+   - Không có giai đoạn hưng cảm, pha trộn hoặc hưng cảm nhẹ.
+
+2. **Rối loạn khí sắc**:
+   - Đặc trưng bởi các triệu chứng trầm cảm nhẹ và kéo dài liên tục trong nhiều năm.
+   - Không có giai đoạn hưng cảm, pha trộn hoặc hưng cảm nhẹ, và không xuất hiện trong bối cảnh của một loạn thần mạn tính hoặc rối loạn hoang tưởng.
+   - Triệu chứng có thể gây ảnh hưởng đến cuộc sống hàng ngày, nhưng thường không nghiêm trọng như trong rối loạn trầm cảm chủ yếu.
+
+Sự khác biệt chính giữa hai rối loạn này nằm ở giai đoạn khởi phát, độ dài và mức độ nặng của triệu chứng. Rối loạn trầm cảm chủ yếu có các giai đoạn rõ ràng và có thể hồi phục giữa các cơn, trong khi rối loạn khí sắc có triệu chứng kéo dài và liên tục hơn.",True,YES,1.0
+"**What are the distinguishing features of Premenstrual Dysphoric Disorder (PMDD) as described in the document, and what is the significance of the timing of symptoms in relation to the menstrual cycle?**","Premenstrual Dysphoric Disorder (PMDD) is characterized by specific symptoms such as muscle pain and weight gain, which must occur in the majority of menstrual cycles over the past year. The symptoms lead to significant distress and interfere with work, learning, social activities, and personal relationships. It is crucial to differentiate PMDD from other disorders, as it is not merely an exacerbation of symptoms from conditions like major depression or panic disorder. 
+
+The timing of symptoms is significant; they must be tracked continuously on a daily basis for at least two consecutive cycles to ensure an accurate diagnosis. Additionally, the symptoms cannot be attributed to physiological effects of substance use or another medical condition. This emphasis on the timing and monitoring of symptoms is essential for establishing a clear diagnosis of PMDD.",False,"The generated answer is relevant to the user query and provides a good overview of PMDD and the significance of symptom timing. However, it contains inaccuracies, such as mentioning muscle pain and weight gain as distinguishing features, which are not typically primary symptoms of PMDD. This affects the overall correctness of the answer.",3.0,"Premenstrual Dysphoric Disorder (PMDD) is characterized by specific symptoms such as muscle pain and weight gain, which must occur in the majority of menstrual cycles over the past year. The symptoms lead to significant distress and interfere with work, learning, social activities, and personal relationships. It is crucial to differentiate PMDD from other disorders, as it is not merely an exacerbation of symptoms from conditions like major depression or panic disorder. 
+
+The timing of symptoms is significant; they must be tracked continuously on a daily basis for at least two consecutive cycles to ensure an accurate diagnosis. Additionally, the symptoms cannot be attributed to physiological effects of substance use or another medical condition. This emphasis on the timing and monitoring of symptoms is essential for establishing a clear diagnosis of PMDD.",True,YES,1.0,"Premenstrual Dysphoric Disorder (PMDD) is characterized by specific symptoms such as muscle pain and weight gain, which must occur in the majority of menstrual cycles over the past year. The symptoms lead to significant distress and interfere with work, learning, social activities, and personal relationships. It is crucial to differentiate PMDD from other disorders, as it is not merely an exacerbation of symptoms from conditions like major depression or panic disorder. 
+
+The timing of symptoms is significant; they must be tracked continuously on a daily basis for at least two consecutive cycles to ensure an accurate diagnosis. Additionally, the symptoms cannot be attributed to physiological effects of substance use or another medical condition. This emphasis on the timing and monitoring of symptoms is essential for establishing a clear diagnosis of PMDD.",True,YES,1.0
+Liệt kê ít nhất ba triệu chứng tâm lý được mô tả trong phần nội dung và giải thích ý nghĩa của chúng trong việc chẩn đoán một rối loạn tâm lý.,"Ba triệu chứng tâm lý được mô tả bao gồm:
+
+1. **Khí sắc giảm**: Đây là triệu chứng chính trong chẩn đoán rối loạn trầm cảm chủ yếu. Khí sắc giảm có thể biểu hiện bằng cảm giác buồn bã, trống rỗng hoặc tuyệt vọng. Sự hiện diện của triệu chứng này là một yếu tố quan trọng để xác định xem một cá nhân có thể mắc phải rối loạn trầm cảm hay không.
+
+2. **Mất thích thú/sở thích**: Triệu chứng này liên quan đến việc không còn quan tâm hoặc không cảm thấy hứng thú với những hoạt động mà trước đây cá nhân từng yêu thích. Điều này có thể ảnh hưởng đến chất lượng cuộc sống và khả năng hoạt động hàng ngày, từ đó hỗ trợ trong việc chẩn đoán các rối loạn tâm lý như rối loạn trầm cảm chủ yếu.
+
+3. **Đau khổ (distress)**: Triệu chứng này đề cập đến sự khó chịu rõ rệt mà cá nhân trải qua do các triệu chứng tâm lý. Đau khổ có thể cản trở công việc, học tập và các mối quan hệ xã hội. Việc xác định mức độ đau khổ là cần thiết để phân biệt giữa các rối loạn tâm lý khác nhau và đảm bảo rằng chẩn đoán là chính xác.
+
+Những triệu chứng này không chỉ giúp xác định loại rối loạn mà còn cung cấp thông tin về mức độ nghiêm trọng và tác động của rối loạn đến cuộc sống của cá nhân.",True,"The generated answer is highly relevant to the user query, as it lists three psychological symptoms and provides clear explanations of their significance in diagnosing psychological disorders. The information is accurate and well-articulated, making it a comprehensive response.",5.0,"Ba triệu chứng tâm lý được mô tả bao gồm:
+
+1. **Khí sắc giảm**: Đây là triệu chứng chính trong chẩn đoán rối loạn trầm cảm chủ yếu. Khí sắc giảm có thể biểu hiện bằng cảm giác buồn bã, trống rỗng hoặc tuyệt vọng. Sự hiện diện của triệu chứng này là một yếu tố quan trọng để xác định xem một cá nhân có thể mắc phải rối loạn trầm cảm hay không.
+
+2. **Mất thích thú/sở thích**: Triệu chứng này liên quan đến việc không còn quan tâm hoặc không cảm thấy hứng thú với những hoạt động mà trước đây cá nhân từng yêu thích. Điều này có thể ảnh hưởng đến chất lượng cuộc sống và khả năng hoạt động hàng ngày, từ đó hỗ trợ trong việc chẩn đoán các rối loạn tâm lý như rối loạn trầm cảm chủ yếu.
+
+3. **Đau khổ (distress)**: Triệu chứng này đề cập đến sự khó chịu rõ rệt mà cá nhân trải qua do các triệu chứng tâm lý. Đau khổ có thể cản trở công việc, học tập và các mối quan hệ xã hội. Việc xác định mức độ đau khổ là cần thiết để phân biệt giữa các rối loạn tâm lý khác nhau và đảm bảo rằng chẩn đoán là chính xác.
+
+Những triệu chứng này không chỉ giúp xác định loại rối loạn mà còn cung cấp thông tin về mức độ nghiêm trọng và tác động của rối loạn đến cuộc sống của cá nhân.",False,NO,0.0,"Ba triệu chứng tâm lý được mô tả bao gồm:
+
+1. **Khí sắc giảm**: Đây là triệu chứng chính trong chẩn đoán rối loạn trầm cảm chủ yếu. Khí sắc giảm có thể biểu hiện bằng cảm giác buồn bã, trống rỗng hoặc tuyệt vọng. Sự hiện diện của triệu chứng này là một yếu tố quan trọng để xác định xem một cá nhân có thể mắc phải rối loạn trầm cảm hay không.
+
+2. **Mất thích thú/sở thích**: Triệu chứng này liên quan đến việc không còn quan tâm hoặc không cảm thấy hứng thú với những hoạt động mà trước đây cá nhân từng yêu thích. Điều này có thể ảnh hưởng đến chất lượng cuộc sống và khả năng hoạt động hàng ngày, từ đó hỗ trợ trong việc chẩn đoán các rối loạn tâm lý như rối loạn trầm cảm chủ yếu.
+
+3. **Đau khổ (distress)**: Triệu chứng này đề cập đến sự khó chịu rõ rệt mà cá nhân trải qua do các triệu chứng tâm lý. Đau khổ có thể cản trở công việc, học tập và các mối quan hệ xã hội. Việc xác định mức độ đau khổ là cần thiết để phân biệt giữa các rối loạn tâm lý khác nhau và đảm bảo rằng chẩn đoán là chính xác.
+
+Những triệu chứng này không chỉ giúp xác định loại rối loạn mà còn cung cấp thông tin về mức độ nghiêm trọng và tác động của rối loạn đến cuộc sống của cá nhân.",False,NO,0.0
+"**What are the key symptoms that must be present for the diagnosis of a psychological disorder related to the menstrual cycle, and how frequently must these symptoms occur?**","The key symptoms that must be present for the diagnosis of a psychological disorder related to the menstrual cycle include muscle pain and weight gain. These symptoms need to occur in the majority of menstrual cycles over the past year. Additionally, the symptoms must cause significant distress and interfere with work, school, social activities, and personal relationships.",False,"The generated answer is relevant to the user query as it addresses symptoms related to psychological disorders associated with the menstrual cycle. However, it inaccurately lists muscle pain and weight gain as key symptoms, which are not typically recognized as primary indicators for such disorders. The answer does mention the frequency of occurrence and the impact on daily life, which is relevant, but the inaccuracies in symptom identification reduce the overall correctness.",3.0,"The key symptoms that must be present for the diagnosis of a psychological disorder related to the menstrual cycle include muscle pain and weight gain. These symptoms need to occur in the majority of menstrual cycles over the past year. Additionally, the symptoms must cause significant distress and interfere with work, school, social activities, and personal relationships.",True,YES,1.0,"The key symptoms that must be present for the diagnosis of a psychological disorder related to the menstrual cycle include muscle pain and weight gain. These symptoms need to occur in the majority of menstrual cycles over the past year. Additionally, the symptoms must cause significant distress and interfere with work, school, social activities, and personal relationships.",False,NO,0.0
+"**What are the key characteristics that define ""Rối loạn trầm cảm do một bệnh cơ thể""?**","The key characteristics that define ""Rối loạn trầm cảm do một bệnh cơ thể"" include:
+
+1. **Persistent Depressive Mood**: The primary manifestation is a prolonged depressed mood or significantly reduced interest in activities.
+
+2. **Physiological Cause**: The disorder is a direct physiological consequence of another medical condition, supported by medical history, examination, or laboratory findings.
+
+3. **Differential Diagnosis**: It cannot be better explained by another mental disorder, such as adjustment disorder with depressed mood, where the stressor is a severe medical condition.
+
+4. **Exclusion of Manic States**: The disorder does not occur exclusively during manic episodes.
+
+5. **Significant Distress or Impairment**: It causes clinically significant distress or negatively impacts social, occupational, or other important areas of functioning.",True,"The generated answer is highly relevant and fully correct, providing a comprehensive list of key characteristics that define ""Rối loạn trầm cảm do một bệnh cơ thể."" Each point is clearly articulated and accurately reflects the nature of the disorder.",5.0,"The key characteristics that define ""Rối loạn trầm cảm do một bệnh cơ thể"" include:
+
+1. **Persistent Depressive Mood**: The primary manifestation is a prolonged depressed mood or significantly reduced interest in activities.
+
+2. **Physiological Cause**: The disorder is a direct physiological consequence of another medical condition, supported by medical history, examination, or laboratory findings.
+
+3. **Differential Diagnosis**: It cannot be better explained by another mental disorder, such as adjustment disorder with depressed mood, where the stressor is a severe medical condition.
+
+4. **Exclusion of Manic States**: The disorder does not occur exclusively during manic episodes.
+
+5. **Significant Distress or Impairment**: It causes clinically significant distress or negatively impacts social, occupational, or other important areas of functioning.",True,YES,1.0,"The key characteristics that define ""Rối loạn trầm cảm do một bệnh cơ thể"" include:
+
+1. **Persistent Depressive Mood**: The primary manifestation is a prolonged depressed mood or significantly reduced interest in activities.
+
+2. **Physiological Cause**: The disorder is a direct physiological consequence of another medical condition, supported by medical history, examination, or laboratory findings.
+
+3. **Differential Diagnosis**: It cannot be better explained by another mental disorder, such as adjustment disorder with depressed mood, where the stressor is a severe medical condition.
+
+4. **Exclusion of Manic States**: The disorder does not occur exclusively during manic episodes.
+
+5. **Significant Distress or Impairment**: It causes clinically significant distress or negatively impacts social, occupational, or other important areas of functioning.",True,YES,1.0

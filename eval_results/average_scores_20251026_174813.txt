@@ -1,0 +1,5 @@
+Evaluation Results - 2025-10-26 17:48:13
+==================================================
+Correctness scores:  4.5714
+Faithfulness scores: 0.9286
+Relevancy scores:    0.7143
