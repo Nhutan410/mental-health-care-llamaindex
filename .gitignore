@@ -1,0 +1,95 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+
+# Streamlit secrets - QUAN TRỌNG!
+.streamlit/
+.streamlit/secrets.toml
+
+# Data files - Cache và storage
+data/cache/
+data/index_storage/
+data/user_storage
+
+# Evaluation results
+eval_results/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+database/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# Result files
+result.txt
+chat_memory.json
+pipeline_cache/
+index_cache/
+
+# Large data files
+*.zip
+*.tar.gz
+*.rar
+
+# Model checkpoints
+checkpoints/
+models/
+
+# Backup files
+*.bak
+*.backup
