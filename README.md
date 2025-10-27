@@ -22,7 +22,7 @@ An intelligent mental health care system using LlamaIndex and OpenAI, capable of
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/mental-health-care.git
+git clone https://github.com/Nhutan410/mental-health-care-llamaindex.git
 cd mental-health-care
 ```
 
