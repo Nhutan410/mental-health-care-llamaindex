@@ -49,8 +49,6 @@ data/cache/
 data/index_storage/
 data/user_storage
 
-# Evaluation results
-eval_results/
 
 # Database
 *.db
